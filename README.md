@@ -1,2 +1,2 @@
 # Shank-Interpreter
-An interpreter in Java
+An interpreter coded in java
